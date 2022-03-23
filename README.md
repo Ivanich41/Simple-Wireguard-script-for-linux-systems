@@ -41,7 +41,7 @@ chmod +x ./Start.sh
 ```
 Or properties button by cliking Right Mouse button at file:
 
-*(There is the KDE Plasme interface in the example. It may differ depending on Desktop Enviroment you are using)*
+*(There is the KDE Plasma interface in the example. It may differ depending on Desktop Enviroment you are using)*
 
 ![изображение](https://user-images.githubusercontent.com/77790965/159754181-35f3625f-8f29-4531-97f2-b56ed36e2476.png)
 
