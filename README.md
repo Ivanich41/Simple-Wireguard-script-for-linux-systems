@@ -25,7 +25,7 @@ For other distros check the [instalation section](https://www.wireguard.com/inst
 
 After packeges instalation move your .conf file at /etc/wireguard directory. You can use command (in a directory with .conf file. Where "FILENAME" is a config name).
 ```
-mv FILENAME.conf /etc/wireguard
+sudo mv FILENAME.conf /etc/wireguard
 ```
 Now you can clone this repository and grab *Start.sh* in comfortable directory (Desktop for example).
 
