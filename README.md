@@ -59,7 +59,7 @@ It will requset superuser password. The script does not harm the system. You can
 
 If script started successfully wireguard will display its settings. After that you will see simple IP checking (it must match the ip of your backend server). 
 
-![изображение](https://user-images.githubusercontent.com/77790965/159759674-68b51429-1b02-4c80-bb00-8c6f8d43bdc4.png)
+![изображение](https://user-images.githubusercontent.com/77790965/159780246-f5b98bd1-162b-41ac-9149-c960b2c1c817.png)
 
 Press any button to turn VPN off. It will display settings and IP again. Press any button one more time to close window (in Konsole only stops script).
 
