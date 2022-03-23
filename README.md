@@ -39,7 +39,7 @@ You can do it by terminal (in the directory with script) :
 ```
 chmod +x ./Start.sh
 ```
-Or properties button by cliking Right Mouse button at file:
+Or properties button by clicking right mouse button at file:
 
 *(There is a KDE Plasma interface in the example. It may differ depending on your Desktop Enviroment )*
 
