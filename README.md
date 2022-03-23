@@ -45,7 +45,7 @@ Or properties button by cliking Right Mouse button at file:
 
 ![изображение](https://user-images.githubusercontent.com/77790965/159754181-35f3625f-8f29-4531-97f2-b56ed36e2476.png)
 
-Now click "executable" checkbox and save the changes
+Now click "executable" checkbox and save changes
 
 ![изображение](https://user-images.githubusercontent.com/77790965/159754547-b9a591bd-801e-48a9-9d59-0f091ee4eef8.png)
 
