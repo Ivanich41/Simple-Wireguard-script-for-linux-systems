@@ -7,7 +7,7 @@
 This description is not a complete guide full Wireguard setup. It just simplifies linux usage (for other platforms usual apps presented). You must setup backend to use this script. For example I used dedicated server via ssh and pivpn utility to generate configs for all my devices. When the .conf file recived you can use this script properly.
 
 ## Setup 
-**For all operations you shold be a superuser**
+**For all operations you should be a superuser**
 
 First of all you need to install Wireguard packeges at your distro.
 
