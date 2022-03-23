@@ -4,7 +4,7 @@
 
 [Wireguard](https://www.wireguard.com) is a simple cross-platform open source tunnel which can help you to set your own VPN server. It has GUI apps for Windows, Android and IOS. But linux client only works in CLI what could be a problem in the era of popularization of VPN services.
 
-This description is not a complete guide full Wireguard setup. It gust simplifies linux usage (for other platforms usual apps presented). You must setup backend to use this script. For example I used dedicated server via ssh and pivpn utility to generate configs for all my devices. When the .file recived you can use this script properly
+This description is not a complete guide full Wireguard setup. It just simplifies linux usage (for other platforms usual apps presented). You must setup backend to use this script. For example I used dedicated server via ssh and pivpn utility to generate configs for all my devices. When the .file recived you can use this script properly
 
 ## Setup 
 **For all operations you shold be a superuser**
