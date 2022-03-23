@@ -4,7 +4,7 @@
 
 [Wireguard](https://www.wireguard.com) is a simple cross-platform open source tunnel which can help you to set your own VPN server. It has GUI apps for Windows, Android and IOS. But linux client only works in CLI what could be a problem in the era of popularization of VPN services.
 
-This description is not a complete guide full Wireguard setup. It just simplifies linux usage (for other platforms usual apps presented). You must setup backend to use this script. For example I used dedicated server via ssh and pivpn utility to generate configs for all my devices. When the .conf file recived you can use this script properly.
+This description is not a complete guide full Wireguard setup. It just simplifies linux usage (for other platforms usual apps presented). You must setup backend to use this script. For example I used dedicated server via ssh and pivpn utility to generate configs for all my devices. You can start using script after reciving .conf file.
 
 ## Setup 
 **For all operations you should be a superuser**
@@ -21,7 +21,7 @@ $ sudo pacman -S wireguard-tools
 ```
 *Note: For my Arch system after instalation needed a reboot.*
 
-For other distros check the [instalation section](https://www.wireguard.com/install/) at Wireguard website. I only tested it at Linux Mint and Arch Linux systems.
+For other distros check the [instalation section](https://www.wireguard.com/install/) at Wireguard website. I only tested it on Linux Mint and Arch Linux systems.
 
 After packeges instalation move your .conf file at /etc/wireguard directory. You can use command (in a directory with .conf file. Where "FILENAME" is a config name).
 ```
