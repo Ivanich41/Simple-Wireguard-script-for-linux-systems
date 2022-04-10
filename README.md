@@ -11,7 +11,7 @@ This description is not a complete guide for full Wireguard setup. It just simpl
 
 First of all you need to install Wireguard packeges at your distro.
 
-For Ubuntu-based distros use:
+For Debian-based distros use:
 ```
 $ sudo apt install wireguard
 ```
