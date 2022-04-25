@@ -17,9 +17,9 @@ $ sudo apt install wireguard
 ```
 For Arch-based distros use:
 ```
-$ sudo pacman -S wireguard-tools
+$ sudo pacman -S wireguard-tools resolveconf
 ```
-*Note: For my Arch system after instalation needed a reboot.*
+(Choose openresolv option)
 
 For other distros check the [instalation section](https://www.wireguard.com/install/) at Wireguard website. I only tested it on Linux Mint and Arch Linux systems.
 
