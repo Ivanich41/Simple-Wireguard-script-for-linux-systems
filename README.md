@@ -72,6 +72,4 @@ Script can't find config in default directory. Possibly you misstyped the name o
 ### Couldn't find curl
 Script uses basic console utility to grab content from web pages. I have not worked with distros without that utility. But you can install it from package manager (package name is just: "curl") or visit its [website](https://curl.se/download.html) to download.
 
-## Plans 
-If someone really needs it, then I will try to decorate the script and add some functions. 
 
