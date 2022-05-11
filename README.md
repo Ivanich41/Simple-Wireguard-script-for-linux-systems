@@ -70,6 +70,6 @@ There is no wiregurad installed at system. Check the setup chapter to fix it
 ### There is no config
 Script can't find config in default directory. Possibly you misstyped the name or forgot to put config in directory. Check the setup chapter to fix it. Also, the problem can be caused by the missing resolvconf package. Just install it
 ### Couldn't find curl
-Script uses basic console utility to grab content from web pages. I have not worked with distros without that utility. But you can install it from package manager (package name is just: "curl") or visit its [website](https://curl.se/download.html) to download.
+Script uses basic console utility to grab content from web pages. I have not worked with distros without that. But you can install it from package manager (package name is just: "curl") or visit its [website](https://curl.se/download.html) to download.
 
 
