@@ -63,13 +63,4 @@ If script started successfully wireguard will display its settings. After that y
 
 Press any button to turn VPN off. It will display settings and IP again. Press any button one more time to close window (in Konsole only stops script).
 
-## Troubleshooting 
-The script provides 3 options for exiting with errors. I will explain them below.
-### Couldn't find wireguard
-There is no wiregurad installed at system. Check the setup chapter to fix it
-### There is no config
-Script can't find config in default directory. Possibly you misstyped the name or forgot to put config in directory. Check the setup chapter to fix it. Also problem may be caused by the missing resolvconf package. Just install it.
-### Couldn't find curl
-Script uses basic console utility to grab content from web pages. I have not worked with distros without that. But you can install it from package manager (package name is just: "curl") or visit its [website](https://curl.se/download.html) to download.
-
 
